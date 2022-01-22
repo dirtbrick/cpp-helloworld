@@ -1,2 +1,2 @@
-# python-helloworld
+# cpp-helloworld
 displays hello world
